@@ -1,0 +1,14 @@
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\bin\Debug\on scren keyboard.exe.config
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\bin\Debug\on scren keyboard.exe
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\bin\Debug\on scren keyboard.pdb
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on_scren_keyboard.Properties.Resources.resources
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.csproj.GenerateResource.cache
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.csproj.CoreCompileInputs.cache
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.exe
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.pdb
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on_scren_keyboard.dashboard.resources
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\bin\Debug\on scren keyboard.exe.manifest
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\bin\Debug\on scren keyboard.application
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.csprojAssemblyReference.cache
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.exe.manifest
+C:\Users\Akash\source\repos\on scren keyboard\on scren keyboard\obj\Debug\on scren keyboard.application
